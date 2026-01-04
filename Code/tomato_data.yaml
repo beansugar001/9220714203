@@ -1,0 +1,13 @@
+# tomato_data.yaml
+# 1. 数据集路径
+path: D:\毕业论文\代码部分\datasets
+# 2. 训练和验证集的子路径
+train: D:\毕业论文\代码部分\datasets\images\train
+val: D:\毕业论文\代码部分\datasets\images\val
+# 3. 类别数量
+#0: healthy (健康), 1: disease (病害)
+nc: 2
+# 4. 类别名称 (顺序必须和标注时的 ID 一致)
+names:
+  0: healthy
+  1: disease
