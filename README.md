@@ -4,3 +4,17 @@
 ```
 conda activate yolov8
 ```
+## 添加所有修改
+```
+git add .
+```
+
+## 确认所有修改
+```
+git commit -m "修改描述"
+```
+
+## 推送到仓库
+```
+git push -u origin main
+```
